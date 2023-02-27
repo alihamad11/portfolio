@@ -6,7 +6,7 @@
             "cardSubtitle":"IKIU University, Qazvin",
             "cardDetailedText": "15/20",
             "icon" : {
-                "src": "images/education/lorem-ipsum.png"
+                "src": "images/logome.png"
             }
         },
         {
@@ -15,7 +15,7 @@
             "cardSubtitle":"Udemy Academy",
             "cardDetailedText": "",
             "icon" : {
-                "src": "images/education/lorem-ipsum.png"
+                "src": "images/logome.png"
             }
         }
     ]
