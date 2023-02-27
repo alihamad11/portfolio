@@ -1,0 +1,16 @@
+{
+    "social": [
+        {
+            "network" : "linkedin",
+            "href": "https://www.linkedin.com/in/ali-hamad-bb0558244/"
+        },
+        {
+            "network" : "github",
+            "href": "https://github.com/alihamad11"
+        },
+        {
+            "network" : "email",
+            "href": "mailto:ali11hamad@outlook.com"
+        }
+    ]
+}

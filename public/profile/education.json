@@ -1,0 +1,22 @@
+{
+    "education":[
+        {
+            "title": "Jun 2015 - Jun 2020",
+            "cardTitle": "EEC Engineering",
+            "cardSubtitle":"IKIU University, Qazvin",
+            "cardDetailedText": "15/20",
+            "icon" : {
+                "src": "images/education/lorem-ipsum.png"
+            }
+        },
+        {
+            "title": "Nov 2022-Feb 2023",
+            "cardTitle": "The Complete Web Developer",
+            "cardSubtitle":"Udemy Academy",
+            "cardDetailedText": "",
+            "icon" : {
+                "src": "images/education/lorem-ipsum.png"
+            }
+        }
+    ]
+}

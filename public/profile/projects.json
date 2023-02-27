@@ -1,0 +1,123 @@
+{
+    "projects" : [
+        {
+            "image" : "images/projects/audio2text.png",
+            "title": "Auido2Text",
+            "bodyText": "Web application made with React and Machine Learning to transcribe Audio of .WAV format and display it",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/alihamad11/audio2text"
+                },
+                {
+                    "text": "Live",
+                    "href": "https://alihamad11.github.io/audio2text/"
+                }
+            ],
+            "tags" : [
+                "React",
+                "JSX",
+                "CSS",
+                "API",
+                "Machine Learning"
+
+            ]
+        },
+        {
+            "image" : "images/projects/robofriends.png",
+            "title": "Robofriends",
+            "bodyText": "This a fun project i did during my course with Udemy with cool features.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/alihamad11/robofriends"
+                },
+                {
+                    "text": "Live",
+                    "href": "https://alihamad11.github.io/robofriends/"
+                }
+            ],
+            "tags" : [
+                "React",
+                "JSX",
+                "CSS",
+                "API"
+                
+            ]
+        },
+        {
+            "image" : "images/projects/background-generator.png",
+            "title": "Background-Generator",
+            "bodyText": "This was my first ever project for generating a linear gradient background with its css code to use in your code.",
+            "links": [
+               
+                {
+                    "text": "Github",
+                    "href": "https://github.com/alihamad11/background-generator"
+                },
+                {
+                    "text": "Live",
+                    "href": "https://alihamad11.github.io/background-generator/"
+                }
+
+            ],
+            "tags" : [
+                "Javascript",
+                "HTML",
+                "CSS"
+            ]
+        },
+        {
+            "image" : "images/projects/unity.png",
+            "title": "Unity Gallery",
+            "bodyText": "A gallery website for displaying pictures for an elevators company i did for a client.",
+            "links": [
+                {
+                    "text": "Github",
+                    "href": "https://github.com/alihamad11/Unity-Gallery"
+                },
+                {
+                    "text": "live",
+                    "href": " https://alihamad11.github.io/Unity-Gallery/"
+                }
+            ],
+            "tags" : [
+                "HTML",
+                "CSS",
+                "Javascript"
+            ]
+        },
+        {
+            "title": "SmartFace",
+            "bodyText": "A Fullstack Web App for Facial Detection Using Machine Learing",
+            "links": [
+                {
+                    "text": "Soon to be deployed",
+                    "href": ""
+                }
+            ],
+            "tags" : [
+                "React",
+                "Node.js",
+                "Express.js",
+                "Postgresql",
+                "API",
+                "Machine Learning"
+            ]
+        },
+        {
+            "title": "FreeLebance",
+            "bodyText": "A Website for freelancers based in Lebanon",
+            "links": [
+                {
+                    "text": "Still in early stages",
+                    "href": "https://github.com/alihamad11"
+                }
+            ],
+            "tags" : [
+                
+            ]
+        }
+        
+    ]
+}
